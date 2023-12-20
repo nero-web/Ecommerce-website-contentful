@@ -1,0 +1,3 @@
+User agent: *
+Allow: /contact
+Allow: /categories/kitchen
